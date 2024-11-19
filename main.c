@@ -1,4 +1,5 @@
 Initial Function ()
 {
-	Sample Code//
-	}
+	Function1//
+
+}
